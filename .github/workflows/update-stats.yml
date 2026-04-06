@@ -38,3 +38,4 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
+          
