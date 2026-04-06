@@ -39,9 +39,9 @@
 
 ### 📊 我的 GitHub
 
-![Zack's GitHub stats](./profile/stats.svg)
+![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=zack744&show_icons=true&theme=vue&hide_title=true)
 
-![Top Langs](./profile/top-langs.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zack744&layout=compact&theme=vue&hide=html,css)
 
 ---
 
