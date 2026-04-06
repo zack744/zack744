@@ -1,6 +1,6 @@
-## 👋 你好，我是何元量 (Zack)
+## 👋 你好，我是
 
-一名热爱编码的后端开发实习生，目前就读于重庆邮电大学。  
+一名热爱编码的后端开发和个人成长爱好者，就读于重庆邮电大学。  
 我享受用 Go 语言构建高效、可靠的后端服务，也喜欢通过全栈项目探索从0到1的产品落地。
 
 ---
@@ -39,15 +39,13 @@
 
 ### 📊 我的 GitHub
 
-[![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=zack744&show_icons=true&theme=vue&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+![Zack's GitHub stats](./profile/stats.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zack744&layout=compact&theme=vue&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](./profile/top-langs.svg)
 
 ---
 
 ### 📫 联系我
 
-- 邮箱：gaohe8118@qq.com  
-- 博客/个人网站：（如果你有，可以放这里）  
+- 邮箱：zackhe774@gmail.com  
 
-> 正在寻找 **后端开发实习生（Golang）** 岗位，欢迎交流～
