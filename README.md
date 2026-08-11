@@ -29,11 +29,39 @@
 
 ### 🛠️ 技术栈
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,astro,vercel,cloudflare,go,git,docker,raspberrypi&theme=dark" />
-</p>
+**Python 后端**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-9B59B6?style=flat-square)
+![APScheduler](https://img.shields.io/badge/APScheduler-1B4F72?style=flat-square)
 
-> 深水区：LLM 调用编排（RAG / Function Calling / Agent 工作流）· Python 自动化 · 爬虫 · 技术 SEO / GEO
+**数据采集 / 工程化**
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![httpx](https://img.shields.io/badge/httpx-2C3E50?style=flat-square)
+![CDP](https://img.shields.io/badge/CDP-6E2CF5?style=flat-square&logo=googlechrome&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+**前端 / 边缘**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Workers%2FD1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![wrangler](https://img.shields.io/badge/wrangler-F38020?style=flat-square)
+
+**端侧 / 硬件**
+![ESP32-S3](https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF5A00?style=flat-square)
+![LVGL](https://img.shields.io/badge/LVGL-4A90D9?style=flat-square)
+
+**AI 接入**
+![DashScope](https://img.shields.io/badge/DashScope-4E6AF2?style=flat-square)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square)
+![fal.ai](https://img.shields.io/badge/fal.ai-FF6B35?style=flat-square)
+![Google GenAI](https://img.shields.io/badge/GenAI-4285F4?style=flat-square&logo=google&logoColor=white)
+
+> 深水区：LLM 调用编排（RAG / Function Calling / Agent 工作流）· 浏览器自动化（CDP/Playwright）· 异步数据管线 · 技术 SEO / GEO
 
 ---
 
