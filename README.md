@@ -55,12 +55,6 @@
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF5A00?style=flat-square)
 ![LVGL](https://img.shields.io/badge/LVGL-4A90D9?style=flat-square)
 
-**AI 接入**
-![DashScope](https://img.shields.io/badge/DashScope-4E6AF2?style=flat-square)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square)
-![fal.ai](https://img.shields.io/badge/fal.ai-FF6B35?style=flat-square)
-![Google GenAI](https://img.shields.io/badge/GenAI-4285F4?style=flat-square&logo=google&logoColor=white)
-
 > 深水区：LLM 调用编排（RAG / Function Calling / Agent 工作流）· 浏览器自动化（CDP/Playwright）· 异步数据管线 · 技术 SEO / GEO
 
 ---
