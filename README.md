@@ -19,6 +19,15 @@
 
 ---
 
+### 🎯 求职定位
+
+> 重庆邮电大学 2027 届 · AI 方向实习中 · 目标：**AI 产品经理（实习/校招）**
+> 非科班但用 AI 做出过一串 0→1 产品：**AI 音乐生成、出海独立站、内容情报、求职工具链**
+> 差异化：**端到端闭环（想法→上线）+ 出海/GEO 实战 + AI 品味与取舍**
+> 📍 深圳 / 杭州 / 广州 / 上海 / 北京 · 全国可谈
+
+---
+
 ### 🧭 我在做什么
 
 - **AI 产品实践**：独立设计并落地 AI 音乐生成、AI 图像生成、Obsidian AI 协作等工具型产品
@@ -85,18 +94,25 @@
 > - 面向 AI 搜索（GEO）优化页面结构与可引用表达，跟踪收录与展示数据
 > 🔗 [cat-color-calculator](https://github.com/zack744/cat-color-calculator) · [holdreveal](https://github.com/zack744/holdreveal)
 
+#### 🔍 hotradar — 内容情报工作台
+> **FastAPI + 多源采集 + 热度评分 + AI 选题简报**
+> RSS / 公众号 / X / Linux.do 等多源内容信号 → 标准化入库 → 来源感知热度评分 → AI 辅助聚类与选题 brief。面向写作者/研究者的情报产品，体现内容产品定义 + AI 工作流化。
+> 🔗 [hotradar](https://github.com/zack744/hotradar)
+
+#### 🔎 daily-keywords / kd-toolkit — 出海找词工具链
+> **找词 SOP 流水线 + 关键词难度评估**
+> 按出海找词 SOP 搭建：多源抓取（HN / Product Hunt / Google Trends）→ AI 清洗聚类 → 质量筛选 → 日报 brief；外加本地 KD 难度估算与域名起名辅助。体现 SEO 选词工作流化 + 把重复劳动交给 AI。
+> 🔗 [daily-keywords](https://github.com/zack744/daily-keywords) · [kd-toolkit](https://github.com/zack744/kd-toolkit)
+
+#### 🎯 job-find — 求职匹配工具链
+> **多平台采集 → 去重 → 规则匹配打分 → AI 定制简历**
+> 自研求职工具：定义求职者画像（城市/方向/薪资/技能）与匹配维度，多平台 JD 采集入库，规则打分 + AI 精准投递闭环。用产品思维解决「海投效率低 + 简历一刀切」。
+> 🔗 [job-find](https://github.com/zack744/job-find)
+
 #### 🐍 opencv-utils — 设备检测 / 树莓派项目
 > **OpenCV + 树莓派**
 > 基于 OpenCV 的设备检测与树莓派端应用实践。
 > 🔗 [opencv-utils](https://github.com/zack744/opencv-utils)
-
----
-
-### 🔨 更多项目（本地进行中，后续推送）
-
-- **HotRadar** — 多源内容信号采集 → 热度评分 → AI 选题简报的情报工作台
-- **daily-keywords / kd-toolkit** — 出海找词 SOP 流水线 + 关键词难度评估工具
-- **Job-find** — 多平台职位采集 → 精准匹配打分 → AI 定制简历的求职工具链
 
 ---
 
