@@ -73,10 +73,10 @@
 > 把本地 Reasonix CLI（DeepSeek 终端 agent）作为 AI 协作者嵌入 Obsidian，在笔记场景直接对话、执行任务。
 > 🔗 [reasonix](https://github.com/zack744/reasonix)
 
-#### 🎨 typix — AI 图像生成工具
+#### 🎨 AI-image-studio — AI 图像生成工具
 > **前端 SPA + Cloudflare Workers 架构**
 > 现代化 AI 图像生成工具：轻量前端 + 边缘函数架构，体验 AI 应用的前后端一体化交付。
-> 🔗 [typix](https://github.com/zack744/typix)
+> 🔗 [AI-image-studio](https://github.com/zack744/ai-image-studio)
 
 #### 🌍 cat-color-calculator / holdreveal — 出海 SEO/GEO 练习站
 > **Astro + Vercel + Cloudflare + GSC**
