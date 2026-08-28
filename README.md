@@ -21,7 +21,7 @@
 
 ### 🧭 我在做什么
 
-- **AI 产品实践**：独立设计并落地 AI 音乐生成、AI 图像生成、Obsidian AI 协作等工具型产品
+- **AI 产品实践**：独立设计并落地 AI 图像生成、Obsidian AI 协作、出海工具站等工具型产品
 - **出海独立站**：从选词、建站、技术 SEO 到收录监控全链路实操，实践 GEO（生成式引擎优化）
 - **端侧 AI**：ESP32-S3 硬件交互 + 云端模型流水线打通
 
@@ -61,13 +61,6 @@
 
 ### 📌 代表性项目
 
-#### 🎵 ai_music — AI 音乐生成产品
-> **Flask + DashScope(ASR/LLM) + 可插拔音乐后端 + ESP32-S3 触摸 UI**
-> 环境音 / 语音输入 → 云端生成音乐的端到端 Agent 流水线：意图理解 → ASR → 风格化 Prompt 编排 → 多模型协同 → 端侧播放。
-> - 设计可容错的模型调用工作流，建立 Badcase 复盘 + Prompt 迭代闭环
-> - 自写 ESP32-S3 触摸 UI 固件，打通「端侧交互 → 云端推理」完整链路
-> 🔗 [ai_music](https://github.com/zack744/ai_music)
-
 #### 🧠 reasonix — Obsidian AI 协作插件
 > **DeepSeek 终端 Agent 嵌入 Obsidian 库**
 > 把本地 Reasonix CLI（DeepSeek 终端 agent）作为 AI 协作者嵌入 Obsidian，在笔记场景直接对话、执行任务。
@@ -84,11 +77,6 @@
 > - 全流程执行 TDK / Schema / Sitemap / Canonical / 内链结构
 > - 面向 AI 搜索（GEO）优化页面结构与可引用表达，跟踪收录与展示数据
 > 🔗 [cat-color-calculator](https://github.com/zack744/cat-color-calculator) · [holdreveal](https://github.com/zack744/holdreveal)
-
-#### 🔍 hotradar — 内容情报工作台
-> **FastAPI + 多源采集 + 热度评分 + AI 选题简报**
-> RSS / 公众号 / X / Linux.do 等多源内容信号 → 标准化入库 → 来源感知热度评分 → AI 辅助聚类与选题 brief。面向写作者/研究者的情报产品，体现内容产品定义 + AI 工作流化。
-> 🔗 [hotradar](https://github.com/zack744/hotradar)
 
 #### 🔎 daily-keywords / kd-toolkit — 出海找词工具链
 > **找词 SOP 流水线 + 关键词难度评估**
